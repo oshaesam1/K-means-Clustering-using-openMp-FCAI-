@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652552585 source:f:\code blocks\hi\main.c
+	<omp.h>
+	<stdio.h>
+
+1652553003 source:f:\code blocks\cs371_assign2_20190073_20190123_20190248_20190301\main.c
+	<omp.h>
+	<stdio.h>
+
