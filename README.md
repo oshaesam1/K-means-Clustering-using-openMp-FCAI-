@@ -1,5 +1,5 @@
 # K-means-Clustering-using-openMp-FCAI-
-**implement the k means algorithm using the open MP function only:**
+**implement the k means algorithm using the open MP function (multi threading):**
 - Number of data points is known
 - The datapoint are in 2 dimension i.e, each point is represented as (x,y)
 
