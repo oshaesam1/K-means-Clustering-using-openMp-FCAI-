@@ -93,7 +93,7 @@ double distances[numOfPoints][threads_num];
         for (i=0; i < numOfPoints; i++)
         {
     for(j=0;j<threads_num;j++){
-            distances[i][j]=distance(centroidX[j],centroidX[j],myPoints[i][0],myPoints[i][1]);
+            distances[i][j]=distance(centroidX[j],centroidY[j],myPoints[i][0],myPoints[i][1]);
 
 
             }
