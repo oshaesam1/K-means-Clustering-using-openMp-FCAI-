@@ -2,7 +2,8 @@
 **implement the k means algorithm using the open MP function only:**
 - Number of data points is known
 - The datapoint are in 2 dimension i.e, each point is represented as (x,y)
--The program output is as follow
+
+- The program output is as follow
 Cluster 1:
 (x1,y1)
 (x2, y2)
